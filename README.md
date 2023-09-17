@@ -26,7 +26,7 @@ This is a simple framework that I use to make game mods/hacks on **WINDOWS**. It
 
 ## Credits
 
-The code used in this project was acquired by doing the GHB(game hacking bible) from [guidedhacking](guidedhacking.com)
+The code used in this project was acquired by doing the GHB(game hacking bible) from [guidedhacking.com](https://guidedhacking.com)
 
 ## License
 
