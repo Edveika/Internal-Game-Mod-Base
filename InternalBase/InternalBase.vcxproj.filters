@@ -27,6 +27,9 @@
     <ClCompile Include="Src\Hooks\Hooks.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Src\Hooks\Directx\9\dx9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Src\SDK\Math\Math.h">
@@ -36,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Src\Hooks\Hooks.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Hooks\Directx\9\dx9.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

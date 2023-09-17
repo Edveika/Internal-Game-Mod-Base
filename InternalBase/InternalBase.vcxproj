@@ -19,12 +19,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Src\Hooks\Directx\9\dx9.cpp" />
     <ClCompile Include="Src\DllMain.cpp" />
     <ClCompile Include="Src\Hooks\Hooks.cpp" />
     <ClCompile Include="Src\SDK\Math\Math.cpp" />
     <ClCompile Include="Src\SDK\Utils\Utils.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Src\Hooks\Directx\9\dx9.h" />
     <ClInclude Include="Src\Hooks\Hooks.h" />
     <ClInclude Include="Src\SDK\Math\Math.h" />
     <ClInclude Include="Src\SDK\Utils\Utils.h" />
