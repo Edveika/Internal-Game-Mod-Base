@@ -11,6 +11,7 @@ This is a simple framework that I use to make game mods/hacks on **WINDOWS**. It
 1. Hooks
    * Trampoline hook
    * Detour hook
+   * Directx9 endscene hook using dummy device method
 3. Memory manipulation utilities
    * Nop
    * Patch
