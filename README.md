@@ -1,12 +1,12 @@
-## Disclaimer
+## ⚠️ Disclaimer
 
 This is **ONLY** used for **ETHICAL** and **LEARNING** purposes. I do not encourage cheating in online games in any way.
 
-## Internal Base
+## 💉 Internal Base
 
 This is a simple framework that I use to make game mods/hacks on **WINDOWS**. It has basic functionality that every game mod/hack needs. As of right now it only supports windows X86 games, but X64 support will be added soon!
 
-## Features
+## 🔥 Features
 
 1. Hooks
    * Trampoline hook
@@ -24,10 +24,10 @@ This is a simple framework that I use to make game mods/hacks on **WINDOWS**. It
    * Vectors
    * Radians/Degrees
 
-## Credits
+## 🤝 Credits
 
 The code used in this project was acquired by doing the GHB(game hacking bible) from [guidedhacking.com](http://www.guidedhacking.com)
 
-## License
+## 📜 License
 
 This project is licensed under the GPL v2 [LICENSE](LICENSE).
